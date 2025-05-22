@@ -24,13 +24,15 @@
 │           │   └── native
 │           ├── osx-x64
 │           │   └── native
+│           ├── win-arm64
+│           │   └── native
 │           └── win-x64
 │               └── native
 └── tests
     └── Devantler.TalosctlCLI.Tests
         └── TalosctlTests
 
-20 directories
+22 directories
 ```
 <!-- readme-tree end -->
 
