@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Devantler.TalosctlCLI/Devantler.TalosctlCLI.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Devantler.TalosctlCLI.Tests/Devantler.TalosctlCLI.Tests.csproj" />
+  </Folder>
+</Solution>
