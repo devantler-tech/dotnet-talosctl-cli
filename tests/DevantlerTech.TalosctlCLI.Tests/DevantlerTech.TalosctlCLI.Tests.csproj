@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Devantler.TalosctlCLI\Devantler.TalosctlCLI.csproj" />
+    <ProjectReference Include="..\..\src\DevantlerTech.TalosctlCLI\DevantlerTech.TalosctlCLI.csproj" />
   </ItemGroup>
 
   <ItemGroup>
