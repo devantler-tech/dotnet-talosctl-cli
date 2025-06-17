@@ -1,6 +1,6 @@
 using CliWrap;
 
-namespace Devantler.TalosctlCLI.Tests.TalosctlTests;
+namespace DevantlerTech.TalosctlCLI.Tests.TalosctlTests;
 
 /// <summary>
 /// Tests for the <see cref="Talosctl.RunAsync(string[], CommandResultValidation, bool, bool, CancellationToken)" /> method.

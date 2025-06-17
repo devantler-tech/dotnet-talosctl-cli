@@ -16,15 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="runtimes/*/native/*">
-      <Link>%(Filename)%(Extension)</Link>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <PackagePath>runtimes/</PackagePath>
-    </Content>
-  </ItemGroup>
-
-  <ItemGroup>
-    <InternalsVisibleTo Include="Devantler.TalosctlCLI.Tests" />
+    <InternalsVisibleTo Include="DevantlerTech.TalosctlCLI.Tests" />
   </ItemGroup>
 </Project>
