@@ -8,12 +8,12 @@ A simple .NET library that embeds the Talosctl CLI.
 
 ## 🚀 Getting Started
 
-## Prerequisites
+### Prerequisites
 
 - .NET 9.0 or later
 - [Talosctl CLI](https://www.talos.dev/v1.10/talos-guides/install/talosctl/) installed and available in your system's PATH
 
-## Installation
+### Installation
 
 To get started, you can install the package from NuGet.
 
